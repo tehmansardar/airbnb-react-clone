@@ -1,10 +1,11 @@
-import {Avatar, Button} from '@material-ui/core';
+import Home from './components/Home'
 import './App.css';
+
 
 function App() {
   return (
     <div className="App">
-    <h1>Hell world</h1>
+    <Home />
     </div>
   );
 }
